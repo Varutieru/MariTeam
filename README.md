@@ -7,4 +7,4 @@ Anggota 2  :   Bisuk Artahsasta Waradana Siahaan  23/522507/TK/57686  -  Softwar
 "Demo edit for homework screenshot"  
 "Demo by Reza edit for homeworkscreenshot on 31 august 2025"  
   
-Flag: junpro_hw1_sasta_pullrequest
+Flag: junpro_hw1_sasta_pullrequest1
