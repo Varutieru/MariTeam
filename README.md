@@ -9,3 +9,6 @@ Anggota 2  :   Bisuk Artahsasta Waradana Siahaan  23/522507/TK/57686  -  Softwar
 "Demo by Ano edit for homeworkscreenshot on 31 august 2025"  
   
 Flag: junpro_hw1_sasta_pullrequest1
+
+## Class Diagram:
+<img width="1192" height="671" alt="W2ClassDiagram drawio (1)" src="https://github.com/user-attachments/assets/fd2a8507-df5b-44d1-a3cc-a917bb2346af" />
