@@ -1,0 +1,46 @@
+## Ignore Visual Studio temporary files, build results, and cache directories
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]est[Rr]esult*/
+[Rr]elease/
+[Dd]ebug/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Bb]uild/
+[Bb]ackup/
+[Pp]ublishProfiles/
+[Mm]igrations/
+
+# Visual Studio cache
+.vs/
+.vscode/
+
+# NuGet Packages
+*.nupkg
+packages/
+*.snupkg
+
+# Others
+*.cache
+*.pdb
+*.dbmdl
+*.opendb
+*.DS_Store
+Thumbs.db
+
+# Rider / JetBrains
+.idea/
+
+# Optional: ignore generated config or secrets
+appsettings.Development.json
