@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace MariTeam
 {
-    public partial class Form1 : Form
+    public partial class MainDashboard : Form
     {
-        public Form1()
+        public MainDashboard()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
