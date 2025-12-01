@@ -152,7 +152,7 @@ namespace MariTeam
 
             saveButton.Click += (s, e) => SaveButton_Click(harborNameTextBox, locationTextBox);
 
-            // HOVER - trigger repaint for gradient effect
+            // HOVER
             saveButton.MouseEnter += (s, e) => saveButton.Invalidate();
             saveButton.MouseLeave += (s, e) => saveButton.Invalidate();
 
@@ -193,7 +193,7 @@ namespace MariTeam
             HarborName = harborNameTextBox.Text.Trim();
             HarborLocation = locationTextBox.Text.Trim();
 
-            // NAVIGATE TO MAIN DASHBOARD
+            // TO MAIN DASHBOARD PAGE
             MainDashboard dashboard = new MainDashboard();
             dashboard.Show();
             this.Hide();

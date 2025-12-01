@@ -63,6 +63,16 @@ namespace MariTeam.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        public static System.Drawing.Bitmap bgDashboard {
+            get {
+                object obj = ResourceManager.GetObject("bgDashboard", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         public static System.Drawing.Bitmap bgEntry {
             get {
                 object obj = ResourceManager.GetObject("bgEntry", resourceCulture);
@@ -76,6 +86,16 @@ namespace MariTeam.Properties {
         public static System.Drawing.Bitmap logo {
             get {
                 object obj = ResourceManager.GetObject("logo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap logoHeader {
+            get {
+                object obj = ResourceManager.GetObject("logoHeader", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

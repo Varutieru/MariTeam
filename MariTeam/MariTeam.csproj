@@ -65,10 +65,17 @@
     <Compile Include="EntryPage.Designer.cs">
       <DependentUpon>EntryPage.cs</DependentUpon>
     </Compile>
+    <Compile Include="MainDashboard.cs" />
+    <Compile Include="MainDashboard.Designer.cs">
+      <DependentUpon>MainDashboard.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="EntryPage.resx">
       <DependentUpon>EntryPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainDashboard.resx">
+      <DependentUpon>MainDashboard.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <SubType>Designer</SubType>
