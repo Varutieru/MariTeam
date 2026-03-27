@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\521764_Azfanova\\MariTeam\\MariTeam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{118E5454-ECE5-41AB-B2EA-A92B6C1B1EC2}|MariTeam\\MariTeam.csproj|d:\\521764_azfanova\\mariteam\\mariteam\\mariteam\\dockschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118E5454-ECE5-41AB-B2EA-A92B6C1B1EC2}|MariTeam\\MariTeam.csproj|solutionrelative:mariteam\\dockschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118E5454-ECE5-41AB-B2EA-A92B6C1B1EC2}|MariTeam\\MariTeam.csproj|d:\\521764_azfanova\\mariteam\\mariteam\\mariteam\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118E5454-ECE5-41AB-B2EA-A92B6C1B1EC2}|MariTeam\\MariTeam.csproj|solutionrelative:mariteam\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118E5454-ECE5-41AB-B2EA-A92B6C1B1EC2}|MariTeam\\MariTeam.csproj|d:\\521764_azfanova\\mariteam\\mariteam\\mariteam\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{118E5454-ECE5-41AB-B2EA-A92B6C1B1EC2}|MariTeam\\MariTeam.csproj|solutionrelative:mariteam\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118E5454-ECE5-41AB-B2EA-A92B6C1B1EC2}|MariTeam\\MariTeam.csproj|d:\\521764_azfanova\\mariteam\\mariteam\\mariteam\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118E5454-ECE5-41AB-B2EA-A92B6C1B1EC2}|MariTeam\\MariTeam.csproj|solutionrelative:mariteam\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DockSchedule.cs",
+              "DocumentMoniker": "D:\\521764_Azfanova\\MariTeam\\MariTeam\\MariTeam\\DockSchedule.cs",
+              "RelativeDocumentMoniker": "MariTeam\\DockSchedule.cs",
+              "ToolTip": "D:\\521764_Azfanova\\MariTeam\\MariTeam\\MariTeam\\DockSchedule.cs",
+              "RelativeToolTip": "MariTeam\\DockSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvycAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T07:37:43.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "D:\\521764_Azfanova\\MariTeam\\MariTeam\\MariTeam\\Ship.cs",
+              "RelativeDocumentMoniker": "MariTeam\\Ship.cs",
+              "ToolTip": "D:\\521764_Azfanova\\MariTeam\\MariTeam\\MariTeam\\Ship.cs",
+              "RelativeToolTip": "MariTeam\\Ship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T07:36:18.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\521764_Azfanova\\MariTeam\\MariTeam\\MariTeam\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MariTeam\\MainWindow.xaml",
+              "ToolTip": "D:\\521764_Azfanova\\MariTeam\\MariTeam\\MariTeam\\MainWindow.xaml",
+              "RelativeToolTip": "MariTeam\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-08T07:35:32.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\521764_Azfanova\\MariTeam\\MariTeam\\MariTeam\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MariTeam\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\521764_Azfanova\\MariTeam\\MariTeam\\MariTeam\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MariTeam\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T07:35:32.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
